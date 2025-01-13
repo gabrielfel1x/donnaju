@@ -10,21 +10,21 @@ import Logo from "/logo.jpeg"
 const products = [
   {
     id: 1,
-    name: "Gloss",
+    name: "Sabonete Carvão Ativado",
     price: "R$ 9,90",
-    image: "/products/gloss.jpeg",
+    image: "/gallery/3.jpeg",
   },
   {
     id: 2,
     name: "Rímel",
     price: "R$ 9,90",
-    image: "/products/corretivo.jpeg",
+    image: "/gallery/4.jpeg",
   },
   {
     id: 3,
-    name: "Esfoliante Facial",
+    name: "Cake Gloss",
     price: "R$ 9,90",
-    image: "/products/esfoliante-facial.jpeg",
+    image: "/gallery/5.jpeg",
   },
 ];
 
