@@ -5,7 +5,7 @@ import ProductCard from './components/ProductCard';
 import SocialButton from './components/SocialButton';
 import LinkButton from './components/LinkButton';
 import Gallery from './components/Gallery';
-import Logo from "logo.jpeg"
+import Logo from "/logo.jpeg"
 
 const products = [
   {
