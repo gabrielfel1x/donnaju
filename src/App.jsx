@@ -80,17 +80,17 @@ function App() {
         <div className="flex justify-center gap-6 mb-12">
           <SocialButton
             icon="whatsapp"
-            href="https://wa.me/your-number"
+            href="https://l.instagram.com/?u=https%3A%2F%2Fwa.me%2Fmessage%2FR6XKG2FYOMJKD1%3Ffbclid%3DPAZXh0bgNhZW0CMTEAAaYs1Wp7WD8xmGSy_Wlju9C_-9CDMJM_d9X-YE20jsvXpt8PDc122ebcAkE_aem_rPcenTX24wvDfxyGKUqqcw&e=AT04unRutd9_j4Dh-mnKkqPQZUn5uoq_pqzGHeAPCneXbWBA0MRyaoCixA-nBixFRlBTIZvgrN1zB1YEvmVXHyYkE51CP5PqVTZOcnV7iM92iQ3bG8RD0g"
             label="WhatsApp"
           />
           <SocialButton
             icon="instagram"
-            href="https://instagram.com/your-profile"
+            href="https://www.instagram.com/donnaju_acessorios01/"
             label="Instagram"
           />
           <SocialButton
             icon="tiktok"
-            href="https://tiktok.com/@your-profile"
+            href="https://www.tiktok.com/@donnajuacessorios1?_t=ZM-8t2AxOf0qvN&_r=1"
             label="TikTok"
           />
         </div>
@@ -98,12 +98,12 @@ function App() {
         {/* Main Links */}
         <div className="space-y-4 mb-16">
           <LinkButton
-            href="/catalogo"
+            href="https://www.instagram.com/donnaju_acessorios01/"
             icon="shopping-bag"
             text="Ver Catálogo Completo"
           />
           <LinkButton
-            href="/tiktok"
+            href="https://www.tiktok.com/@donnajuacessorios1?_t=ZM-8t2AxOf0qvN&_r=1"
             icon="video-camera"
             text="Dicas no TikTok"
           />
