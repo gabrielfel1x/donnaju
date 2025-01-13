@@ -16,7 +16,7 @@ const products = [
   },
   {
     id: 2,
-    name: "Rímel",
+    name: "Hidratante Labial",
     price: "R$ 9,90",
     image: "/gallery/4.jpeg",
   },
