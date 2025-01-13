@@ -5,26 +5,26 @@ import ProductCard from './components/ProductCard';
 import SocialButton from './components/SocialButton';
 import LinkButton from './components/LinkButton';
 import Gallery from './components/Gallery';
-import Logo from "../public/logo.jpeg"
+import Logo from "logo.jpeg"
 
 const products = [
   {
     id: 1,
     name: "Gloss",
     price: "R$ 9,90",
-    image: "../public/products/gloss.jpeg",
+    image: "/products/gloss.jpeg",
   },
   {
     id: 2,
     name: "Rímel",
     price: "R$ 9,90",
-    image: "../public/products/corretivo.jpeg",
+    image: "/products/corretivo.jpeg",
   },
   {
     id: 3,
     name: "Esfoliante Facial",
     price: "R$ 9,90",
-    image: "../public/products/esfoliante-facial.jpeg",
+    image: "/products/esfoliante-facial.jpeg",
   },
 ];
 
