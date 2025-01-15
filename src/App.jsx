@@ -80,7 +80,7 @@ function App() {
         <div className="flex justify-center gap-6 mb-12">
           <SocialButton
             icon="whatsapp"
-            href="https://www.wa.me/+5585994123338"
+            href="https://wa.me/5585994123338"
             label="WhatsApp"
           />
           <SocialButton
